@@ -41,7 +41,7 @@ body {
   display: none;
   position: absolute;
   left:1100px;
-  top:79px;
+  top:100px;
   background-color: #f1f1f1;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -71,7 +71,7 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 52px;
+  top: 69px;
   left: 1000px;
   overflow: hidden;
   font-weight: 900;
@@ -123,7 +123,7 @@ a:visited{
 
 #projects {
   color: rgba(117,13,32,1);
-  top: 33px;
+  top: 49px;
   left: 1150px;
   font-family: Roboto;
   font-weight: 900;
