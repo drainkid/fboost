@@ -17,7 +17,7 @@ body {
 .v4_34 {
   width: 1195px;
   height: 632px;
-  background: url("/main/images/v4_34.png");
+  background: url("../main/images/v4_34.png");
   background-repeat: no-repeat;
   background-position: center center;
   filter: brightness(50%);
