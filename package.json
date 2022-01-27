@@ -1,0 +1,21 @@
+{
+  "name": "fefuboost",
+  "version": "1.0.0",
+  "description": "",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf dist/*",
+    "build": "parcel build *.html main/index.html gallery/index.html brothers/bro.html bomb/fet.html pagecont/index.html whack a mole/krot.html",
+    "start": "parcel *.html  --open -p 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.11",
+    "postcss": "^8.4.5"
+  }
+}

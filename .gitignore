@@ -1,0 +1,5 @@
+# Project exclude paths
+/.cache/
+/.parcel-cache/
+/dist/
+/node_modules/
