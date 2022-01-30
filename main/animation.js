@@ -3,13 +3,14 @@ $(document).ready(function() {
     $(window).scroll(function () {
 
         if ($(window).scrollTop() < 100) {
-            $('.v15_8').fadeOut('fast', 'swing');
-            $('.v15_10').fadeOut('fast', 'swing');
-            $('.v6_3').fadeOut('fast', 'swing');
-            $('.v6_4').fadeOut('fast', 'swing');
-            $('.v6_7').fadeOut('fast', 'swing');
-            $('.v15_11').fadeOut('fast', 'swing');
-            $('.v4_68').fadeOut('fast', 'swing');
+            $('.ban1').fadeOut('fast', 'swing');
+            $('.ban11').fadeOut('fast', 'swing');
+            $('.ban3').fadeOut('fast', 'swing');
+            $('.bantext').fadeOut('fast', 'swing');
+            $('.voprosik').fadeOut('fast', 'swing');
+            $('.opisanie2').fadeOut('fast', 'swing');
+            $('.ban4').fadeOut('fast', 'swing');
+            $('.text3').fadeOut('fast', 'swing');
             $('.opisanie').fadeOut('fast', 'swing');
 
         } else if ($(this).scrollTop() > 500) {
@@ -21,7 +22,7 @@ $(document).ready(function() {
 
 
  firstAnimation = function () {
-    $('.v6_2',).each(
+    $('.block2',).each(
         function () {
             $(this).animate({
                 opacity: 1,
@@ -33,16 +34,18 @@ $(document).ready(function() {
 };
 function firstplusAnimation(){
     if ($(window).scrollTop() > 1200) {
-        $('.v6_4').fadeIn('slow', 'linear').delay(10000);
-        $('.v6_7').fadeIn('slow', 'swing').delay(100000);
-        $('.opisanie').fadeIn('slow', 'swing').delay(100000);
+        $('.voprosik').fadeIn('slow', 'linear');
+        $('.opisanie2').fadeIn('slow', 'swing');
+        $('.opisanie').fadeIn('slow', 'swing');
     }
 
-    $('.v15_11').fadeIn('slow', 'swing').delay(100000);
-    $('.v4_68').fadeIn('slow', 'swing').delay(100000);
-    $('.v15_8').fadeIn('slow', 'swing').delay(100000);
-    $('.v15_10').fadeIn('slow', 'swing').delay(100000);
-    $('.v6_3').fadeIn('fast', 'swing').delay(100000);
+    $('.ban1').fadeIn('slow', 'swing');
+    $('.ban11').fadeIn('slow', 'swing');
+    $('.text3').fadeIn('slow', 'swing');
+    $('.ban2').fadeIn('slow', 'swing');
+    $('.ban3').fadeIn('slow', 'swing');
+    $('.bantext').fadeIn('fast', 'swing');
+    $('.ban4').fadeIn('slow', 'swing');
 }
 
 //knopka vverh

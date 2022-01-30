@@ -4,7 +4,7 @@
 body {
   font-size: 14px;
 }
-.v30_4 {
+.container {
   width: 100%;
   height: 2009px;
   background: rgba(224,224,224,1);
@@ -14,7 +14,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v4_34 {
+.block {
   width: 1195px;
   height: 632px;
   background: url("../main/images/v4_34.png");
@@ -63,7 +63,7 @@ body {
 
 .dropdown:hover .v4_15 {background-color: rgb(155, 155, 155);}
 
-.v4_18 {
+.navbarall {
   width: 380px;
   height: 30px;
   background-repeat: no-repeat;
@@ -141,7 +141,7 @@ v4_15 {
 
 
 
-.v12_2 {
+.banner {
   width: 172px;
   height: 21px;
   background-repeat: no-repeat;
@@ -165,7 +165,7 @@ v4_15 {
   opacity: 1;
   text-align: left;
 }
-.v19_53 {
+.icon {
   width: 40px;
   height: 40px;
   background: url("../main/images/v19_53.png");
@@ -178,7 +178,7 @@ v4_15 {
   left: 123px;
   overflow: hidden;
 }
-.v4_35 {
+.text1 {
   width: 620px;
   color: #ffffff;
   position: absolute;
@@ -190,7 +190,7 @@ v4_15 {
   opacity: 1;
   text-align: center;
 }
-.v4_37 {
+.text2 {
   width: 610px;
   color: #ffffff;
   position: absolute;
@@ -253,7 +253,7 @@ v4_15 {
   opacity: 1;
   text-align: center;
 }
-.v4_68 {
+.text3 {
   width: 376px;
   color: rgba(98,0,17,1);
   position: absolute;
@@ -265,7 +265,7 @@ v4_15 {
   opacity: 1;
   text-align: center;
 }
-.v15_7 {
+.ban1 {
   width: 312px;
   height: 188px;
   background: rgba(229,229,229,1);
@@ -279,7 +279,7 @@ v4_15 {
   border-bottom-right-radius: 10px;
   overflow: hidden;
 }
-.v15_8 {
+.ban11 {
   width: 320px;
   height: 230px;
   background: rgba(206,206,206,1);
@@ -294,7 +294,7 @@ v4_15 {
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.25);
   overflow: hidden;
 }
-.v15_10 {
+.ban3 {
   width: 320px;
   height: 230px;
   background: rgba(206,206,206,1);
@@ -309,7 +309,7 @@ v4_15 {
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.25);
   overflow: hidden;
 }
-.v15_11 {
+.ban4 {
   width: 320px;
   height: 230px;
   background: rgba(206,206,206,1);
@@ -324,7 +324,7 @@ v4_15 {
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.25);
   overflow: hidden;
 }
-.v6_3 {
+.bantext {
   width: 100%;
   height: 171px;
   background-repeat: no-repeat;
@@ -447,7 +447,7 @@ v4_15 {
   left: 947px;
   overflow: hidden;
 }
-.v6_2 {
+.block2 {
   width: 1px;
   height: 1px;
   background: rgba(41,41,41,1);
@@ -461,7 +461,7 @@ v4_15 {
   border-bottom-right-radius: 10px;
   overflow: hidden;
 }
-.v6_4 {
+.voprosik {
   width: 160px;
   height: 160px;
   background: url("../main/images/img.png");
@@ -471,7 +471,7 @@ v4_15 {
   left: 643px;
   border-radius: 50%;
 }
-.v6_7 {
+.opisanie2 {
   width: 610px;
   color: rgba(212,212,212,1);
   position: absolute;
