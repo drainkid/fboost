@@ -1,8 +1,8 @@
-#About
+# About
 > This is my final front-end project at university
 https://drainkid.github.io/fboost/main/index.html
 
-#Instalation
+# Instalation
 1. Clone project from GitHub https://github.com/drainkid/fboost
 2. Install NodeJs https://nodejs.org/en/
 3. Install npm install
@@ -10,7 +10,7 @@ https://drainkid.github.io/fboost/main/index.html
 5. Build: npm run build
 6. Start: npm run start
 
-#Architecture
+# Architecture
 /dist - build directory
 
 /.cache - cache directory
