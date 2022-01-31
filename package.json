@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm -rf dist/*",
     "build": "parcel build *.html main/index.html gallery/index.html brothers/bro.html bomb/fet.html pagecont/index.html whack a mole/krot.html",
-    "start": "parcel *.html  --open -p 3000"
+    "start": "parcel *.html main/index.html --open -p 3000"
   },
   "author": "",
   "license": "ISC",
