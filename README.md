@@ -19,4 +19,7 @@ https://drainkid.github.io/fboost/main/index.html
 
 /node_modules - сontains all project dependencies
 
+/bomb, /whackamole, /brothers, /gallery, /main , /pagecont - projects's pages
+
+
 
