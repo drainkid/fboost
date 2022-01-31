@@ -4,7 +4,7 @@
 body {
   font-size: 14px;
 }
-.v3_5 {
+.container {
   width: 100%;
   height: 3000px;
   background: rgba(224,224,224,1);
@@ -121,7 +121,7 @@ padding: 20px;
 
 }
 
-.v3_32 {
+.fedorfet {
   width: 486px;
   height: 767px;
   background-repeat: no-repeat;
@@ -184,7 +184,7 @@ padding: 20px;
   opacity: 1;
   text-align: center;
 }
-.v3_8 {
+.description {
   width: 852px;
   color: rgba(117,13,32,1);
   position: absolute;
@@ -196,7 +196,7 @@ padding: 20px;
   opacity: 1;
   text-align: center;
 }
-.v3_9 {
+.description2 {
   width: 809px;
   color: rgba(117,13,32,1);
   position: absolute;
@@ -208,7 +208,7 @@ padding: 20px;
   opacity: 1;
   text-align: center;
 }
-.v10_3 {
+.ruiner {
   width: 486px;
   height: 767px;
   background-repeat: no-repeat;
@@ -271,7 +271,7 @@ padding: 20px;
   opacity: 1;
   text-align: center;
 }
-.v10_4 {
+.allcash {
   width: 486px;
   height: 767px;
   background-repeat: no-repeat;
@@ -334,7 +334,7 @@ padding: 20px;
   border-bottom-right-radius: 144px;
   overflow: hidden;
 }
-.v10_2 {
+.drainkid {
   width: 486px;
   height: 767px;
   background-repeat: no-repeat;
@@ -397,7 +397,7 @@ padding: 20px;
   opacity: 1;
   text-align: center;
 }
-.v10_5 {
+.banner {
   width: 172px;
   color: rgba(98,0,17,1);
   position: absolute;
@@ -409,7 +409,7 @@ padding: 20px;
   opacity: 1;
   text-align: left;
 }
-.v10_6 {
+.icon {
   width: 40px;
   height: 40px;
   background: url("../images/v10_6.png");
